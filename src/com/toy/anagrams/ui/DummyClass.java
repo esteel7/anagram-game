@@ -7,7 +7,7 @@ package com.toy.anagrams.ui;
 
 /**
  *
- * @author Rodrigo
+ * @author Rodrigo Martínez
  */
 public class DummyClass {
 
