@@ -10,5 +10,6 @@ package com.toy.anagrams.ui;
  * @author Rodrigo Martínez
  */
 public class DummyClass {
+    private final String dummyString = "Dummy";
 
 }
